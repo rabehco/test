@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head bgcolor="red">
+    <title>
+        desin
+        
+    </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"
+</head>
+<body style="background-color: rgba(155, 86, 86, 0.363);">
+    <h1 bgcolor="red">desing</h1>
+    
+    <hr >
+    <h3 bgcolor="red"> in the deeep</h3>
+    <a href="https://kick.com/" target="_self" title="kick web page">
+<h1 wordcolor="red">kick</h1>
+    </a>
+   
+    <img src="pnj.pnj.jpg "  height="200"       >
+  <div>
+    <label for="f">tpe pen..</label>
+  <select id="f" name="f">
+    <option value="cust"> custumer</option>
+    <option value="buyer"> buy</option>
+    <option value="admin"> admin</option>
+</select>
+</div>
+<button style="color: #9b2727;" style="font-size: x-large; " >fondaoin</button>
+</body>
+
